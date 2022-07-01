@@ -1,3 +1,2 @@
 # Hariswar-personal
-
-this is my notes
+ This is for Git Learning
